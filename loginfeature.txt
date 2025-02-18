@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 added my file main
 This is the super awesome loginfeature
 end my file main
+=======
+login feature additionnel 
+This is the super awesome loginfeature
+>>>>>>> loginfeature
